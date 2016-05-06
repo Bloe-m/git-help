@@ -22,3 +22,6 @@ git push
 git commit -m "mensaje"
 git commit -m "Commit inicial"
 git commit
+
+## cambios
+git status
