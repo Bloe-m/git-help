@@ -19,9 +19,9 @@ git pull
 git push
 
 ## commit
-git commit -m "mensaje"
-git commit -m "Commit inicial"
-git commit
+*git commit -m "mensaje"
+*git commit -m "Commit inicial"
+*git commit
 
 ## cambios
 git status
