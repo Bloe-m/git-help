@@ -20,7 +20,7 @@ es opcional
 este sirve para traer todo del repo remoto (github) a mi repo local(pc)
 
 ## Subir a repositorio
-git push <nombreRepo> <nombreRama>
+git push <nombre_Repo> <nombre_Rama>
 * git push origin master
 
 ## commit
