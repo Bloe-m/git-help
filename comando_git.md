@@ -12,7 +12,7 @@ junto con su extencion y todo, si le colocas * agregara todo
 git rm <nombre_archivo>
 
 ## Clonar repositorio
-git clone (link) nombre ---> le puedes cambiar el nombre, aunque
+git clone <enlace> <nombre> ---> le puedes cambiar el nombre, aunque
 es opcional
 
 ## Actualizar repositorio
@@ -20,7 +20,7 @@ git pull
 este sirve para traer todo del repo remoto (github) a mi repo local(pc)
 
 ## Subir a repositorio
-git push
+git push <nombreRepo> <nombreRama>
 
 ## commit
 * git commit -m "mensaje"  --> sin tener que ir a un editor
@@ -28,3 +28,6 @@ git commit y te lleva a un editor de texto para el mensaje del commit
 
 ## cambios
 git status
+ver los cambios que hiciste, en rojo saldran los que no has
+publicado al repositorio aun
+
