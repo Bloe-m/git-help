@@ -32,3 +32,4 @@ git commit y te lleva a un editor de texto para el mensaje del commit
 ver los cambios que hiciste, en rojo saldran los que no has
 publicado al repositorio aun
 
+## Ayuda2
