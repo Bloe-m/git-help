@@ -23,11 +23,11 @@ este sirve para traer todo del repo remoto (github) a mi repo local(pc)
 * git push <nombre_Repo> <nombre_Rama>
 * git push origin master
 
-## commit
+## Commit
 * git commit -m "mensaje"  --> sin tener que ir a un editor
 git commit y te lleva a un editor de texto para el mensaje del commit
 
-## cambios
+## Cambios
 * git status
 ver los cambios que hiciste, en rojo saldran los que no has
 publicado al repositorio aun
